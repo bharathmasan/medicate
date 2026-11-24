@@ -1,0 +1,6 @@
+{
+  "name": "Medicate",
+  "description": "A calm personal mental wellness companion for daily mind tracking, pattern analysis, guided mindfulness exercises, and progress reflection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
